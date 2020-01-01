@@ -1,0 +1,9 @@
+#!/bin/sh
+judul = 'WELCOME TO HERU-S PLAYLIST'
+subjudul = 'SAO MUSIC VOCAL'
+
+echo $judul
+echo $subjudul
+echo
+mpv 'LiSA - Crossing Field.mp3' && mpv 'y2mate.com - sword_art_online_ending_1yume_sekai_tomatsu_haruka_mGDqtAT5jc4.mp3'
+
